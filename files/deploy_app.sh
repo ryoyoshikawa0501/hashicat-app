@@ -11,6 +11,7 @@ cat << EOM > /var/www/html/index.html
   <title>Meow!</title>
   </head>
   <body>
+  Welcome to ${PREFIX}'s app. Replace this text with your own.
   <div style="width:800px;margin: 0 auto">
 
   <!-- BEGIN -->
